@@ -15,3 +15,12 @@
     padding: 24px 0;
     font-size: 28px;
 }
+
+.escola-imagem{
+    widht: 25%
+}
+
+.escola{
+    display:flex;
+    color:wheat;
+}
