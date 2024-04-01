@@ -24,4 +24,10 @@
     display:flex;
     color:#f5deb3;
     background: linear-gradient(90deg, rgba(193,37,12,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
-}
+    }
+
+    .escola-conteudo-{
+        width: 30%;
+        justify-content: center;
+        display: flex;
+    }
